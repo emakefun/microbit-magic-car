@@ -1,4 +1,0 @@
-1、The headlights are connected to the P12 and P8 pins, where the red line of the headlights is connected to the 3V3 red pin and the black line is connected to the blue pin
-2、Pay attention to the motor installation Angle, all inward
-3、The motor of the left front wheel is connected to M3, the motor of the left rear wheel is connected to M4, the motor of the right rear wheel is connected to M1, and the motor of the right front wheel is connected to M2
-4、When installing the wheel, be sure to pay attention to the direction of the wheel roller
