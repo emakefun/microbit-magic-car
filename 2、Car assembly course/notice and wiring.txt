@@ -1,0 +1,3 @@
+The left wheel motor is connected to the M4 interface, and the right motor is connected to the M1 interface
+The red wire of the headlights is connected to the red pin and the black wire is connected to the P8 pin
+The steering gear is connected to pin S1, where the yellow line corresponds to the blue line, the red line corresponds to the red line, and the brown line corresponds to the black line

@@ -1,0 +1,11 @@
+1. Two microbit motherboards are required. One is used on the trolley (download receiver) to receive data and control the trolley; the other is powered via USB (download sender) to send command data
+2. When the button A of the microbit motherboard sending commands is pressed, the RGB lamp on the control board is mounted
+When the button B on the microbit motherboard sending commands is pressed, the steering gear is controlled (the steering gear Angle should be adjusted according to the actual assembly situation to achieve better results).
+When the microbit motherboard button AB is pressed simultaneously, the headlights are controlled
+When sending commands to the left of the microbit motherboard, the car turns left
+When sending commands the microbit motherboard tilts right, the car turns right
+When sending commands the microbit motherboard leans forward and the car moves forward
+When sending commands the microbit motherboard leans back, the car backs up
+When the microbit motherboard that sends the command tilts too far to the left, the car turns left on the spot
+When the microbit motherboard that sends the command tilts too far to the right, the car turns to the right
+When sending commands to the microbit motherboard lay flat, the trolley stopped

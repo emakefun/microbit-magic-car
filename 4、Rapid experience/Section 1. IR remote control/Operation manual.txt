@@ -1,0 +1,12 @@
+
+Key A of the infrared remote control is pressed to control the onboard RGB lamp
+Button B of infrared remote control is pressed to control steering gear rotation (steering gear Angle is adjusted according to the actual assembly situation)
+Infrared remote control button C is pressed to control the headlights
+The button up of the infrared remote control is pressed to move the car forward
+The button down of the infrared remote control is pressed and the car backs up
+The right button of the infrared remote control is pressed and the car turns right
+The left button of the infrared remote control is pressed and the car turns left
+Infrared remote control button D is pressed, the car left turn on the spot
+Infrared remote control button 0 is pressed, the car on the right
+Infrared remote control button OK is pressed, car stop
+Infrared remote control button + is pressed, car buzzer sound
